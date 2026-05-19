@@ -1,7 +1,7 @@
 //Step 1: Open android studio and create a new project name Calculator -> click the 3 lines present the left -> click on no activity give the name of application 
-Step 2: Once the Project gets load right click on res folder -> new activity -> click on empty activity ->click on launcher activity -> project is created
-Step 3 : Code for activity_main.xml(UI)
-All the above are the steps how to start with the android studio project
+//Step 2: Once the Project gets load right click on res folder -> new activity -> click on empty activity ->click on launcher activity -> project is created
+//Step 3 : Code for activity_main.xml(UI)
+//All the above are the steps how to start with the android studio project
 
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
